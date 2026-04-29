@@ -1,0 +1,14 @@
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\bin\Debug\net10.0\task4.exe
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\bin\Debug\net10.0\task4.deps.json
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\bin\Debug\net10.0\task4.runtimeconfig.json
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\bin\Debug\net10.0\task4.dll
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\bin\Debug\net10.0\task4.pdb
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\obj\Debug\net10.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\obj\Debug\net10.0\task4.AssemblyInfoInputs.cache
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\obj\Debug\net10.0\task4.AssemblyInfo.cs
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\obj\Debug\net10.0\task4.csproj.CoreCompileInputs.cache
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\obj\Debug\net10.0\task4.dll
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\obj\Debug\net10.0\refint\task4.dll
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\obj\Debug\net10.0\task4.pdb
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\obj\Debug\net10.0\task4.genruntimeconfig.cache
+C:\Users\vshva\OneDrive\Desktop\ІПЗ універ йоу йоу\2 КУРС\2 семестр\Конструювання програмного забезпечення\lab03\task4\obj\Debug\net10.0\ref\task4.dll
